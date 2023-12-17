@@ -26,8 +26,11 @@
 Администраторы имеют специальные команды для добавления и удаления других администраторов бота. Это обеспечивает контроль доступа к функционалу бота.
 ## Использование
 Запустите бота, выполнив команду /start.
+
 Для создания и управления задачами используйте соответствующие команды.
+
 Распределяйте задачи между участниками актива, используя функционал бота.
+
 Следите за статусом и сроками выполнения задач, используя уведомления и команды бота.
 #
 #
@@ -45,9 +48,13 @@ Members of the student body can easily exchange information and coordinate effor
 Users can effortlessly add new tasks, providing the following information:
 
 Task title
+
 Task type (e.g., work, study, personal)
+
 Task description
+
 Deadline (completion date and time)
+
 Individuals assigned to the task
 ### 2. Task Deletion
 ### 3. Task Editing
@@ -57,6 +64,9 @@ Users and administrators can mark tasks as completed or uncompleted. This featur
 Administrators have special commands for adding and removing other administrators of the bot. This ensures control over access to the bot's functionality.
 ## Usage
 Start the bot by executing the /start command.
+
 Utilize relevant commands for creating and managing tasks.
+
 Distribute tasks among student body members using the bot's functionality.
+
 Monitor task status and deadlines using notifications and bot commands.
